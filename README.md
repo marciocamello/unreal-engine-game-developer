@@ -8,4 +8,8 @@ Sou um desenvolvedor sênior a mais de 15 anos com Web Technologies, JS/PHP Fron
 
 Vamos aprender isso na prática, todos os dias teremos vídeo no canal e lives na TWITCH e conteúdos gravados aqui da live, para aprendermos juntos com a documentação da EPIC GAMES e criar um Game do zero, durante o processo de aprendizado com a comunidade espero aprender mais e mais e passar o que já aprendi para a comunidade, conto com vocês.
 
+Canal onde serão transmitidas as lives
 https://www.twitch.tv/vovozeraa
+
+Material gravado
+https://www.youtube.com/channel/UCbrfALzQZTKO67VR99hsvuw
