@@ -40,6 +40,10 @@ https://www.twitch.tv/vovozeraa
 
 https://www.youtube.com/channel/UCbrfALzQZTKO67VR99hsvuw
 
+## Discord
+
+https://discord.gg/BPK4NZRP
+
 ## Links, Tutoriais, Referências
 
 ### Oficial da EpicGames
